@@ -1,6 +1,6 @@
-# Hi! 👋 I'm Tochukwu John
+# Hi! 👋 I'm Xeux
 
-## Frontend Web Developer
+## Senior Software Engineer
 
 - Let's build cool things together
 
