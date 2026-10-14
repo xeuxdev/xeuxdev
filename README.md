@@ -24,7 +24,7 @@ I build high-performance product experiences across **TypeScript**, modern **fro
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🚀 Current Personal Builds
-- **Akụkọ** — AI news digest platform for personalized daily briefings
+- **Akụkọ** — The AI co-writer for African and diaspora storytellers.
 - **MindEase** — real-time AI mental health companion
 - **Zero-Star Therapy** — satirical AI anti-therapist app
 
